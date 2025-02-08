@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
 DOMAIN-SUFFIX,52shuku.vip
-DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
@@ -45,6 +44,7 @@ DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,missav.ai
 # DOMAIN-SUFFIX,groq.com
 # DOMAIN-SUFFIX,difyai.com
 
